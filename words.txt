@@ -1,0 +1,2 @@
+label Word INTEGER pointer liminal character exa wait null wipe void copy write read test
+jump addi subi muli mrd 
